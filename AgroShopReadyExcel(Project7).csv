@@ -1,0 +1,501 @@
+Date,Invoice No,Product ID,Product Name,Farmer name,Season,Crop Type,Harvest Month,Qty Sold,Stock Available,Selling Price,Total Sale,Stock Status,City
+17-02-2026,INV0001,P011,Wheat Seed,Ravi,Rabi,Green Vegetable,January,10,13550,1356,13560,In Stock,Lucknow
+18-03-2026,INV0002,P014,Potash,Suresh,Rabi,Cauliflower,January,2,2190,1096,2192,In Stock,Kanpur
+13-03-2026,INV0003,P011,Herbicide B,Ravi,Rabi,Cabbage,February,7,9485,1356,9492,In Stock,Varanasi
+07-03-2026,INV0004,P004,Rice Seed,Mohan,Rabi,Cucumber,January,5,6355,1272,6360,Low,Prayagraj
+24-03-2026,INV0005,P004,DAP,Amit,Zaid,Cabbage,February,5,6355,1272,6360,Low,Agra
+23-02-2026,INV0006,P003,Wheat Seed,Suresh,Kharif,Rabbi,January,1,1549,1550,1550,In Stock,Noida
+20-01-2026,INV0007,P002,Herbicide B,Ravi,Zaid,Cucumber,January,3,3537,1180,3540,In Stock,Ghaziabad
+18-03-2026,INV0008,P020,Potash,Suresh,Rabi,Green Vegetable,February,8,8280,1036,8288,In Stock,Meerut
+04-03-2026,INV0009,P011,Urea,Suresh,Zaid,Green Vegetable,January,3,4065,1356,4068,In Stock,Gorakhpur
+02-02-2026,INV0010,P016,DAP,Mohan,Kharif,Cabbage,March,5,4965,994,4970,In Stock,Bareilly
+26-02-2026,INV0011,P012,Herbicide B,Mohan,Rabi,Cabbage,February,9,2844,317,2853,In Stock,Aligarh
+25-02-2026,INV0012,P013,Herbicide B,Ravi,Rabi,Rabbi,February,4,2772,694,2776,In Stock,Jhansi
+13-01-2026,INV0013,P013,Urea,Raj,Zaid,Cabbage,January,1,693,694,694,In Stock,Ayodhya
+19-03-2026,INV0014,P013,Fungicide C,Mohan,Zaid,Cauliflower,January,3,2079,694,2082,In Stock,Mathura
+14-02-2026,INV0015,P011,Insecticide A,Raj,Kharif,Cauliflower,January,3,4065,1356,4068,In Stock,Moradabad
+21-03-2026,INV0016,P009,Rice Seed,Ravi,Zaid,Carrot,March,5,6090,1219,6095,In Stock,Saharanpur
+29-03-2026,INV0017,P002,Wheat Seed,Mohan,Kharif,Cucumber,March,4,4716,1180,4720,In Stock,Muzaffarnagar
+30-01-2026,INV0018,P014,DAP,Amit,Zaid,Cucumber,February,8,8760,1096,8768,In Stock,Rampur
+24-02-2026,INV0019,P001,Corn Seed,Suresh,Zaid,Carrot,January,3,2004,669,2007,In Stock,Shahjahanpur
+04-01-2026,INV0020,P001,Herbicide B,Ravi,Zaid,Cucumber,February,9,6012,669,6021,In Stock,Firozabad
+06-02-2026,INV0021,P009,DAP,Suresh,Rabi,Cucumber,January,9,10962,1219,10971,In Stock,Etawah
+19-02-2026,INV0022,P007,Urea,Suresh,Zaid,Carrot,January,1,1040,1041,1041,In Stock,Mainpuri
+19-02-2026,INV0023,P009,Insecticide A,Mohan,Rabi,Green Vegetable,March,1,1218,1219,1219,Low,Unnao
+06-02-2026,INV0024,P001,Fungicide C,Mohan,Kharif,Rabbi,March,3,2004,669,2007,In Stock,Rae Bareli
+02-03-2026,INV0025,P013,Rice Seed,Ravi,Zaid,Green Vegetable,January,9,6237,694,6246,In Stock,Sitapur
+07-02-2026,INV0026,P017,Fungicide C,Raj,Rabi,Green Vegetable,March,1,630,631,631,In Stock,Hardoi
+02-03-2026,INV0027,P020,Rice Seed,Mohan,Zaid,Cucumber,March,7,7245,1036,7252,In Stock,Lakhimpur
+03-02-2026,INV0028,P016,Herbicide B,Raj,Zaid,Cauliflower,January,2,1986,994,1988,In Stock,Sultanpur
+11-03-2026,INV0029,P011,Herbicide B,Suresh,Rabi,Cauliflower,March,9,12195,1356,12204,In Stock,Amethi
+29-03-2026,INV0030,P007,DAP,Suresh,Rabi,Cucumber,January,3,3120,1041,3123,In Stock,Gonda
+14-02-2026,INV0031,P003,Urea,Raj,Zaid,Carrot,February,4,6196,1550,6200,In Stock,Bahraich
+02-01-2026,INV0032,P018,Fungicide C,Ravi,Zaid,Cucumber,January,6,9402,1568,9408,In Stock,Shravasti
+01-04-2026,INV0033,P018,Insecticide A,Raj,Rabi,Cauliflower,January,9,14103,1568,14112,In Stock,Balrampur
+12-02-2026,INV0034,P005,Fungicide C,Suresh,Rabi,Carrot,March,2,2796,1399,2798,In Stock,Basti
+15-01-2026,INV0035,P018,DAP,Mohan,Zaid,Green Vegetable,January,4,6268,1568,6272,In Stock,Sant Kabir Nagar
+19-01-2026,INV0036,P012,Potash,Ravi,Zaid,Rabbi,January,2,632,317,634,In Stock,Siddharthnagar
+01-03-2026,INV0037,P019,Fungicide C,Mohan,Zaid,Green Vegetable,February,7,11312,1617,11319,In Stock,Maharajganj
+01-03-2026,INV0038,P015,Insecticide A,Mohan,Zaid,Cabbage,January,4,3252,814,3256,In Stock,Kushinagar
+29-03-2026,INV0039,P016,DAP,Suresh,Zaid,Cabbage,March,4,3972,994,3976,In Stock,Deoria
+26-03-2026,INV0040,P014,Wheat Seed,Amit,Kharif,Cabbage,January,5,5475,1096,5480,In Stock,Ballia
+20-01-2026,INV0041,P016,Rice Seed,Amit,Kharif,Green Vegetable,March,5,4965,994,4970,In Stock,Mau
+03-02-2026,INV0042,P013,Urea,Suresh,Zaid,Green Vegetable,January,6,4158,694,4164,In Stock,Azamgarh
+09-03-2026,INV0043,P010,Wheat Seed,Ravi,Rabi,Cauliflower,January,5,4515,904,4520,Low,Jaunpur
+21-02-2026,INV0044,P002,Wheat Seed,Amit,Rabi,Cauliflower,February,9,10611,1180,10620,In Stock,Ghazipur
+28-01-2026,INV0045,P016,Rice Seed,Amit,Kharif,Rabbi,March,8,7944,994,7952,In Stock,Chandauli
+12-03-2026,INV0046,P013,Urea,Suresh,Zaid,Carrot,February,9,6237,694,6246,In Stock,Mirzapur
+16-01-2026,INV0047,P015,Wheat Seed,Raj,Rabi,Cabbage,January,7,5691,814,5698,In Stock,Sonbhadra
+08-02-2026,INV0048,P014,Rice Seed,Mohan,Zaid,Green Vegetable,January,5,5475,1096,5480,In Stock,Bhadohi
+26-01-2026,INV0049,P005,Herbicide B,Suresh,Kharif,Carrot,February,5,6990,1399,6995,In Stock,Pratapgarh
+07-03-2026,INV0050,P011,DAP,Raj,Rabi,Rabbi,March,3,4065,1356,4068,In Stock,Kaushambi
+09-01-2026,INV0051,P001,Wheat Seed,Mohan,Kharif,Cucumber,February,5,3340,669,3345,In Stock,Fatehpur
+04-03-2026,INV0052,P013,Corn Seed,Raj,Kharif,Rabbi,January,3,2079,694,2082,Low,Banda
+06-03-2026,INV0053,P003,Corn Seed,Suresh,Zaid,Cucumber,January,3,4647,1550,4650,In Stock,Chitrakoot
+08-02-2026,INV0054,P017,Fungicide C,Mohan,Zaid,Rabbi,March,3,1890,631,1893,In Stock,Hamirpur
+22-03-2026,INV0055,P010,DAP,Amit,Zaid,Cucumber,January,10,9030,904,9040,In Stock,Mahoba
+21-02-2026,INV0056,P010,Insecticide A,Suresh,Zaid,Carrot,February,5,4515,904,4520,In Stock,Jalaun
+15-03-2026,INV0057,P009,Rice Seed,Mohan,Zaid,Cabbage,January,8,9744,1219,9752,In Stock,Auraiya
+30-01-2026,INV0058,P007,Potash,Raj,Rabi,Rabbi,January,7,7280,1041,7287,In Stock,Kannauj
+16-02-2026,INV0059,P013,Corn Seed,Amit,Zaid,Cabbage,January,5,3465,694,3470,In Stock,Farrukhabad
+04-03-2026,INV0060,P014,Wheat Seed,Amit,Rabi,Cabbage,March,4,4380,1096,4384,In Stock,Kasganj
+17-01-2026,INV0061,P013,Wheat Seed,Suresh,Kharif,Green Vegetable,February,5,3465,694,3470,In Stock,Etah
+08-01-2026,INV0062,P015,DAP,Suresh,Zaid,Carrot,January,6,4878,814,4884,In Stock,Hathras
+05-02-2026,INV0063,P014,Potash,Ravi,Zaid,Cucumber,March,6,6570,1096,6576,In Stock,Bijnor
+08-02-2026,INV0064,P001,Rice Seed,Raj,Rabi,Carrot,February,9,6012,669,6021,In Stock,Amroha
+11-02-2026,INV0065,P006,Urea,Amit,Zaid,Cabbage,January,10,8460,847,8470,In Stock,Sambhal
+08-01-2026,INV0066,P018,Corn Seed,Raj,Kharif,Carrot,January,9,14103,1568,14112,In Stock,Badaun
+17-01-2026,INV0067,P006,Wheat Seed,Raj,Kharif,Cauliflower,February,5,4230,847,4235,In Stock,Pilibhit
+17-02-2026,INV0068,P006,Insecticide A,Ravi,Rabi,Carrot,January,3,2538,847,2541,In Stock,Kheri
+26-01-2026,INV0069,P001,Insecticide A,Raj,Zaid,Rabbi,February,5,3340,669,3345,In Stock,Barabanki
+21-03-2026,INV0070,P011,Insecticide A,Raj,Rabi,Cabbage,March,7,9485,1356,9492,In Stock,Ambedkar Nagar
+16-03-2026,INV0071,P016,Wheat Seed,Raj,Kharif,Cauliflower,March,5,4965,994,4970,In Stock,Tanda
+07-02-2026,INV0072,P019,Rice Seed,Suresh,Zaid,Cauliflower,January,4,6464,1617,6468,In Stock,Akbarpur
+05-02-2026,INV0073,P011,Wheat Seed,Ravi,Zaid,Rabbi,March,3,4065,1356,4068,In Stock,Shikohabad
+07-02-2026,INV0074,P020,Urea,Raj,Rabi,Cabbage,January,2,2070,1036,2072,In Stock,Tundla
+15-03-2026,INV0075,P001,Fungicide C,Ravi,Kharif,Cucumber,January,2,1336,669,1338,In Stock,Shamli
+24-02-2026,INV0076,P018,Corn Seed,Mohan,Kharif,Cucumber,March,6,9402,1568,9408,In Stock,Kairana
+28-03-2026,INV0077,P015,Fungicide C,Raj,Rabi,Green Vegetable,February,2,1626,814,1628,In Stock,Hapur
+17-01-2026,INV0078,P007,Rice Seed,Mohan,Kharif,Carrot,January,7,7280,1041,7287,In Stock,Bulandshahr
+20-01-2026,INV0079,P018,Rice Seed,Amit,Rabi,Cabbage,March,6,9402,1568,9408,Low,Khurja
+03-02-2026,INV0080,P004,Rice Seed,Raj,Rabi,Rabbi,January,4,5084,1272,5088,In Stock,Sikandrabad
+21-02-2026,INV0081,P008,Rice Seed,Mohan,Rabi,Cauliflower,January,10,8000,801,8010,In Stock,Dadri
+04-02-2026,INV0082,P010,Insecticide A,Mohan,Zaid,Cauliflower,February,1,903,904,904,In Stock,Jewar
+11-02-2026,INV0083,P002,Fungicide C,Suresh,Kharif,Green Vegetable,January,1,1179,1180,1180,In Stock,Modinagar
+27-03-2026,INV0084,P010,Herbicide B,Amit,Zaid,Green Vegetable,February,7,6321,904,6328,In Stock,Muradnagar
+17-01-2026,INV0085,P001,Herbicide B,Ravi,Rabi,Cauliflower,March,8,5344,669,5352,In Stock,Loni
+17-02-2026,INV0086,P015,Urea,Amit,Kharif,Carrot,January,3,2439,814,2442,In Stock,Pilkhuwa
+04-03-2026,INV0087,P009,Insecticide A,Ravi,Zaid,Cabbage,January,1,1218,1219,1219,Low,Hasanpur
+02-01-2026,INV0088,P012,Wheat Seed,Mohan,Kharif,Cauliflower,March,1,316,317,317,In Stock,Najibabad
+03-02-2026,INV0089,P008,DAP,Amit,Rabi,Cucumber,February,5,4000,801,4005,In Stock,Nagina
+08-01-2026,INV0090,P019,Urea,Ravi,Rabi,Carrot,January,5,8080,1617,8085,Low,Dhampur
+23-02-2026,INV0091,P019,Rice Seed,Suresh,Rabi,Rabbi,March,7,11312,1617,11319,In Stock,Chandpur
+04-02-2026,INV0092,P016,Herbicide B,Raj,Kharif,Green Vegetable,January,5,4965,994,4970,In Stock,Haldaur
+11-03-2026,INV0093,P017,Fungicide C,Suresh,Kharif,Cabbage,January,10,6300,631,6310,In Stock,Kiratpur
+17-02-2026,INV0094,P015,Corn Seed,Suresh,Kharif,Cauliflower,February,6,4878,814,4884,In Stock,Seohara
+16-03-2026,INV0095,P014,Potash,Ravi,Rabi,Cabbage,March,3,3285,1096,3288,In Stock,Jalalabad
+22-02-2026,INV0096,P001,Insecticide A,Amit,Kharif,Green Vegetable,January,10,6680,669,6690,In Stock,Powayan
+12-02-2026,INV0097,P014,DAP,Amit,Zaid,Cucumber,January,3,3285,1096,3288,In Stock,Tilhar
+14-01-2026,INV0098,P013,Wheat Seed,Suresh,Kharif,Green Vegetable,February,2,1386,694,1388,Low,Puranpur
+30-01-2026,INV0099,P002,Rice Seed,Mohan,Kharif,Cucumber,March,3,3537,1180,3540,In Stock,Bisalpur
+29-03-2026,INV0100,P002,Urea,Ravi,Rabi,Green Vegetable,January,7,8253,1180,8260,In Stock,Barkhera
+13-01-2026,INV0101,P020,Herbicide B,Suresh,Kharif,Cabbage,January,3,3105,1036,3108,In Stock,Gola Gokaran Nath
+19-03-2026,INV0102,P019,Fungicide C,Raj,Zaid,Cauliflower,February,1,1616,1617,1617,Low,Mohammadi
+03-01-2026,INV0103,P006,Corn Seed,Ravi,Kharif,Cauliflower,March,1,846,847,847,In Stock,Palia Kalan
+26-02-2026,INV0104,P015,DAP,Suresh,Kharif,Cabbage,January,3,2439,814,2442,In Stock,Nighasan
+17-03-2026,INV0105,P002,Potash,Suresh,Kharif,Cucumber,January,2,2358,1180,2360,In Stock,Dhaurahra
+13-02-2026,INV0106,P011,Rice Seed,Ravi,Kharif,Green Vegetable,February,10,13550,1356,13560,Low,Mahmudabad
+08-02-2026,INV0107,P005,Urea,Suresh,Kharif,Rabbi,March,8,11184,1399,11192,In Stock,Laharpur
+29-01-2026,INV0108,P018,Wheat Seed,Amit,Zaid,Cabbage,January,6,9402,1568,9408,In Stock,Misrikh
+18-03-2026,INV0109,P019,Corn Seed,Ravi,Rabi,Green Vegetable,January,10,16160,1617,16170,In Stock,Sandila
+02-01-2026,INV0110,P002,Insecticide A,Ravi,Zaid,Cabbage,February,5,5895,1180,5900,In Stock,Bilgram
+09-02-2026,INV0111,P001,Fungicide C,Ravi,Rabi,Green Vegetable,March,2,1336,669,1338,In Stock,Shahabad
+03-01-2026,INV0112,P005,Herbicide B,Raj,Kharif,Cabbage,January,5,6990,1399,6995,In Stock,Sandi
+16-03-2026,INV0113,P008,DAP,Ravi,Zaid,Green Vegetable,January,7,5600,801,5607,In Stock,Mallawan
+26-03-2026,INV0114,P003,Rice Seed,Ravi,Zaid,Carrot,February,7,10843,1550,10850,Low,Pihani
+02-02-2026,INV0115,P013,Wheat Seed,Suresh,Rabi,Green Vegetable,March,10,6930,694,6940,Low,Bilsi
+01-01-2026,INV0116,P014,Urea,Mohan,Kharif,Cauliflower,January,10,10950,1096,10960,In Stock,Ujhani
+25-03-2026,INV0117,P020,Potash,Amit,Kharif,Carrot,January,3,3105,1036,3108,In Stock,Sahaswan
+26-01-2026,INV0118,P004,Corn Seed,Suresh,Zaid,Rabbi,February,2,2542,1272,2544,In Stock,Dataganj
+15-02-2026,INV0119,P014,Fungicide C,Ravi,Zaid,Cabbage,March,3,3285,1096,3288,In Stock,Bisauli
+01-01-2026,INV0120,P015,Insecticide A,Raj,Kharif,Cucumber,January,1,813,814,814,In Stock,Chandausi
+04-02-2026,INV0121,P014,DAP,Amit,Kharif,Rabbi,January,5,5475,1096,5480,In Stock,Gunnaur
+22-01-2026,INV0122,P013,Herbicide B,Suresh,Kharif,Green Vegetable,February,3,2079,694,2082,In Stock,Bilari
+22-02-2026,INV0123,P013,Rice Seed,Suresh,Zaid,Green Vegetable,March,3,2079,694,2082,In Stock,Thakurdwara
+02-03-2026,INV0124,P007,Wheat Seed,Suresh,Kharif,Carrot,January,7,7280,1041,7287,In Stock,Kanth
+16-01-2026,INV0125,P003,Urea,Amit,Kharif,Green Vegetable,January,7,10843,1550,10850,In Stock,Kundarki
+22-03-2026,INV0126,P008,Corn Seed,Mohan,Zaid,Cauliflower,February,9,7200,801,7209,In Stock,Suar
+29-01-2026,INV0127,P016,DAP,Ravi,Rabi,Rabbi,March,9,8937,994,8946,In Stock,Bilaspur
+08-03-2026,INV0128,P010,Potash,Mohan,Kharif,Cabbage,January,7,6321,904,6328,In Stock,Milak
+26-02-2026,INV0129,P001,Fungicide C,Mohan,Rabi,Cauliflower,January,8,5344,669,5352,In Stock,Tanda Rampur
+10-03-2026,INV0130,P003,Herbicide B,Mohan,Kharif,Cucumber,February,5,7745,1550,7750,In Stock,Nawabganj
+26-01-2026,INV0131,P008,Rice Seed,Suresh,Zaid,Cucumber,March,8,6400,801,6408,In Stock,Faridpur
+31-01-2026,INV0132,P003,Insecticide A,Amit,Rabi,Rabbi,January,7,10843,1550,10850,In Stock,Baheri
+27-03-2026,INV0133,P003,Wheat Seed,Amit,Rabi,Rabbi,January,9,13941,1550,13950,In Stock,Aonla
+03-03-2026,INV0134,P019,DAP,Raj,Kharif,Cabbage,February,5,8080,1617,8085,In Stock,Meerganj
+12-03-2026,INV0135,P017,Urea,Mohan,Kharif,Rabbi,March,9,5670,631,5679,In Stock,Bithoor
+17-02-2026,INV0136,P007,Rice Seed,Raj,Kharif,Green Vegetable,January,3,3120,1041,3123,Low,Rasulabad
+04-03-2026,INV0137,P006,Corn Seed,Suresh,Zaid,Carrot,January,6,5076,847,5082,In Stock,Ghatampur
+13-03-2026,INV0138,P003,Herbicide B,Ravi,Kharif,Cucumber,February,9,13941,1550,13950,Low,Akbarpur Kanpur Dehat
+15-01-2026,INV0139,P006,Fungicide C,Raj,Kharif,Cucumber,March,6,5076,847,5082,In Stock,Rura
+24-02-2026,INV0140,P008,Potash,Raj,Rabi,Cucumber,January,5,4000,801,4005,In Stock,Pukhrayan
+29-01-2026,INV0141,P014,DAP,Ravi,Rabi,Cucumber,January,8,8760,1096,8768,In Stock,Bhognipur
+17-02-2026,INV0142,P010,Insecticide A,Raj,Kharif,Cabbage,February,2,1806,904,1808,In Stock,Derapur
+24-03-2026,INV0143,P016,Wheat Seed,Amit,Kharif,Cucumber,March,7,6951,994,6958,In Stock,Sikandra
+31-03-2026,INV0144,P004,Rice Seed,Amit,Rabi,Rabbi,January,9,11439,1272,11448,In Stock,Orai
+24-02-2026,INV0145,P014,Urea,Suresh,Zaid,Rabbi,January,4,4380,1096,4384,Low,Konch
+30-01-2026,INV0146,P009,Corn Seed,Suresh,Kharif,Carrot,February,8,9744,1219,9752,In Stock,Kalpi
+01-01-2026,INV0147,P015,Herbicide B,Amit,Rabi,Rabbi,March,1,813,814,814,In Stock,Madhogarh
+24-03-2026,INV0148,P011,Fungicide C,Ravi,Zaid,Green Vegetable,January,9,12195,1356,12204,In Stock,Rath
+17-03-2026,INV0149,P003,DAP,Suresh,Zaid,Cauliflower,January,9,13941,1550,13950,In Stock,Maudaha
+13-02-2026,INV0150,P016,Potash,Mohan,Kharif,Green Vegetable,February,3,2979,994,2982,Low,Sarila
+21-01-2026,INV0151,P001,Rice Seed,Suresh,Rabi,Carrot,March,5,3340,669,3345,In Stock,Charkhari
+01-02-2026,INV0152,P020,Urea,Ravi,Kharif,Cauliflower,January,8,8280,1036,8288,In Stock,Kulpahar
+08-02-2026,INV0153,P017,Wheat Seed,Suresh,Zaid,Green Vegetable,January,3,1890,631,1893,In Stock,Kabrai
+22-03-2026,INV0154,P014,Corn Seed,Mohan,Zaid,Rabbi,February,8,8760,1096,8768,In Stock,Lalitpur
+07-02-2026,INV0155,P019,Insecticide A,Amit,Rabi,Green Vegetable,March,2,3232,1617,3234,In Stock,Talbehat
+20-01-2026,INV0156,P015,Fungicide C,Ravi,Kharif,Rabbi,January,3,2439,814,2442,In Stock,Mahroni
+08-01-2026,INV0157,P007,Herbicide B,Suresh,Rabi,Cabbage,January,6,6240,1041,6246,In Stock,Baruasagar
+16-03-2026,INV0158,P009,DAP,Ravi,Zaid,Rabbi,February,1,1218,1219,1219,In Stock,Mauranipur
+28-02-2026,INV0159,P010,Rice Seed,Amit,Zaid,Cabbage,March,6,5418,904,5424,In Stock,Garautha
+16-02-2026,INV0160,P005,Wheat Seed,Amit,Rabi,Green Vegetable,January,5,6990,1399,6995,In Stock,Babina
+19-03-2026,INV0161,P003,Urea,Amit,Rabi,Green Vegetable,January,6,9294,1550,9300,In Stock,Chirgaon
+05-02-2026,INV0162,P011,Potash,Mohan,Zaid,Cucumber,February,8,10840,1356,10848,In Stock,Tulsipur
+03-03-2026,INV0163,P005,Corn Seed,Ravi,Kharif,Rabbi,March,2,2796,1399,2798,In Stock,Utraula
+21-02-2026,INV0164,P011,Fungicide C,Suresh,Zaid,Carrot,January,10,13550,1356,13560,Low,Colonelganj
+29-03-2026,INV0165,P011,Insecticide A,Amit,Kharif,Cauliflower,January,4,5420,1356,5424,In Stock,Mankapur
+18-02-2026,INV0166,P020,DAP,Amit,Zaid,Green Vegetable,February,2,2070,1036,2072,In Stock,Tarabganj
+22-01-2026,INV0167,P001,Herbicide B,Mohan,Rabi,Cucumber,March,2,1336,669,1338,In Stock,Nanpara
+04-02-2026,INV0168,P016,Rice Seed,Suresh,Kharif,Rabbi,January,5,4965,994,4970,In Stock,Kaiserganj
+26-01-2026,INV0169,P008,Wheat Seed,Raj,Kharif,Cucumber,January,2,1600,801,1602,In Stock,Payagpur
+21-02-2026,INV0170,P019,Urea,Amit,Zaid,Cucumber,February,10,16160,1617,16170,In Stock,Jarwal
+03-02-2026,INV0171,P011,Corn Seed,Amit,Rabi,Cauliflower,March,2,2710,1356,2712,In Stock,Bhinga
+08-02-2026,INV0172,P015,DAP,Ravi,Zaid,Rabbi,January,5,4065,814,4070,In Stock,Ikauna
+08-03-2026,INV0173,P013,Potash,Mohan,Rabi,Cabbage,January,4,2772,694,2776,In Stock,Harraiya
+27-03-2026,INV0174,P009,Fungicide C,Suresh,Rabi,Cucumber,February,1,1218,1219,1219,In Stock,Khalilabad
+06-01-2026,INV0175,P014,Herbicide B,Suresh,Zaid,Cabbage,March,4,4380,1096,4384,In Stock,Bansi
+17-03-2026,INV0176,P016,Rice Seed,Ravi,Rabi,Cabbage,January,7,6951,994,6958,In Stock,Naugarh
+27-01-2026,INV0177,P011,Insecticide A,Suresh,Rabi,Green Vegetable,January,6,8130,1356,8136,Low,Shohratgarh
+05-01-2026,INV0178,P009,Wheat Seed,Ravi,Rabi,Cauliflower,February,9,10962,1219,10971,In Stock,Pharenda
+23-02-2026,INV0179,P020,DAP,Ravi,Zaid,Green Vegetable,March,5,5175,1036,5180,In Stock,Nautanwa
+14-01-2026,INV0180,P014,Urea,Suresh,Kharif,Rabbi,January,3,3285,1096,3288,In Stock,Nichlaul
+07-03-2026,INV0181,P009,Rice Seed,Raj,Rabi,Carrot,January,2,2436,1219,2438,In Stock,Padrauna
+06-02-2026,INV0182,P016,Corn Seed,Amit,Rabi,Rabbi,February,10,9930,994,9940,In Stock,Hata
+19-03-2026,INV0183,P015,Herbicide B,Ravi,Rabi,Cauliflower,January,1,813,814,814,In Stock,Ramkola
+26-03-2026,INV0184,P016,Fungicide C,Suresh,Zaid,Cabbage,February,4,3972,994,3976,In Stock,Rudrapur
+15-01-2026,INV0185,P003,Potash,Suresh,Kharif,Cabbage,January,7,10843,1550,10850,In Stock,Salempur
+17-01-2026,INV0186,P009,DAP,Mohan,Kharif,Green Vegetable,January,10,12180,1219,12190,In Stock,Lar
+13-03-2026,INV0187,P007,Insecticide A,Raj,Rabi,Green Vegetable,February,2,2080,1041,2082,In Stock,Rasra
+26-01-2026,INV0188,P015,Wheat Seed,Amit,Kharif,Green Vegetable,January,7,5691,814,5698,In Stock,Bansdih
+22-03-2026,INV0189,P018,Rice Seed,Amit,Kharif,Rabbi,March,5,7835,1568,7840,In Stock,Sikanderpur
+22-01-2026,INV0190,P017,Urea,Amit,Zaid,Cauliflower,February,10,6300,631,6310,In Stock,Belthara Road
+10-03-2026,INV0191,P008,Corn Seed,Ravi,Kharif,Cucumber,February,1,800,801,801,In Stock,Muhammadabad
+18-02-2026,INV0192,P018,Herbicide B,Suresh,Rabi,Cucumber,January,10,15670,1568,15680,Low,Jiyanpur
+27-03-2026,INV0193,P017,Fungicide C,Mohan,Kharif,Cucumber,January,8,5040,631,5048,In Stock,Nizamabad
+27-03-2026,INV0194,P017,DAP,Ravi,Zaid,Green Vegetable,January,5,3150,631,3155,In Stock,Mehnagar
+27-01-2026,INV0195,P017,Potash,Suresh,Zaid,Green Vegetable,March,6,3780,631,3786,In Stock,Shahganj
+19-03-2026,INV0196,P020,Rice Seed,Ravi,Rabi,Cabbage,March,1,1035,1036,1036,In Stock,Mariahu
+22-03-2026,INV0197,P002,Urea,Mohan,Zaid,Cucumber,February,4,4716,1180,4720,In Stock,Kerakat
+10-02-2026,INV0198,P015,Wheat Seed,Ravi,Kharif,Rabbi,January,7,5691,814,5698,In Stock,Saidpur
+13-03-2026,INV0199,P008,Corn Seed,Ravi,Rabi,Carrot,February,1,800,801,801,In Stock,Zamania
+19-02-2026,INV0200,P019,Insecticide A,Mohan,Zaid,Green Vegetable,January,1,1616,1617,1617,In Stock,Dildarnagar
+13-03-2026,INV0201,P018,Fungicide C,Suresh,Zaid,Cucumber,January,8,12536,1568,12544,In Stock,Mughalsarai
+31-03-2026,INV0202,P020,Herbicide B,Mohan,Kharif,Cabbage,March,9,9315,1036,9324,In Stock,Chakia
+09-03-2026,INV0203,P004,DAP,Ravi,Rabi,Cauliflower,March,3,3813,1272,3816,In Stock,Robertsganj
+17-03-2026,INV0204,P006,Rice Seed,Ravi,Kharif,Cauliflower,January,8,6768,847,6776,In Stock,Obra
+20-02-2026,INV0205,P015,Wheat Seed,Mohan,Zaid,Cabbage,March,10,8130,814,8140,Low,Renukoot
+08-01-2026,INV0206,P019,Urea,Ravi,Rabi,Cabbage,March,5,8080,1617,8085,In Stock,Dudhi
+01-03-2026,INV0207,P017,Potash,Suresh,Kharif,Rabbi,January,1,630,631,631,In Stock,Gyanpur
+09-01-2026,INV0208,P019,Corn Seed,Raj,Rabi,Cauliflower,March,9,14544,1617,14553,In Stock,Kunda
+06-01-2026,INV0209,P011,Fungicide C,Suresh,Zaid,Cabbage,January,4,5420,1356,5424,In Stock,Lalganj
+09-01-2026,INV0210,P020,Insecticide A,Raj,Rabi,Cauliflower,February,8,8280,1036,8288,In Stock,Patti
+11-03-2026,INV0211,P019,DAP,Ravi,Zaid,Green Vegetable,January,4,6464,1617,6468,In Stock,Phulpur
+16-01-2026,INV0212,P013,Herbicide B,Suresh,Kharif,Rabbi,January,8,5544,694,5552,In Stock,Handia
+03-01-2026,INV0213,P007,Rice Seed,Ravi,Zaid,Cucumber,March,9,9360,1041,9369,In Stock,Sirathu
+08-02-2026,INV0214,P007,Wheat Seed,Ravi,Kharif,Green Vegetable,January,5,5200,1041,5205,In Stock,Manjhanpur
+31-01-2026,INV0215,P020,Urea,Mohan,Rabi,Carrot,January,8,8280,1036,8288,In Stock,Khaga
+17-01-2026,INV0216,P011,Corn Seed,Amit,Rabi,Green Vegetable,February,10,13550,1356,13560,In Stock,Bindki
+30-01-2026,INV0217,P017,DAP,Suresh,Zaid,Carrot,January,1,630,631,631,In Stock,Jahanabad
+24-02-2026,INV0218,P014,Potash,Suresh,Kharif,Cauliflower,March,1,1095,1096,1096,In Stock,Fatehabad
+20-01-2026,INV0219,P020,Fungicide C,Ravi,Zaid,Rabbi,January,9,9315,1036,9324,In Stock,Tirwa
+18-01-2026,INV0220,P016,Herbicide B,Mohan,Zaid,Carrot,March,2,1986,994,1988,Low,Chhibramau
+15-02-2026,INV0221,P006,Rice Seed,Raj,Kharif,Rabbi,January,6,5076,847,5082,In Stock,Saurikh
+31-03-2026,INV0222,P016,Insecticide A,Suresh,Rabi,Cauliflower,January,8,7944,994,7952,Low,Patiyali
+18-03-2026,INV0223,P004,Wheat Seed,Amit,Rabi,Cauliflower,February,4,5084,1272,5088,In Stock,Jalesar
+03-02-2026,INV0224,P020,Potash,Raj,Rabi,Cabbage,March,8,8280,1036,8288,In Stock,Sadabad
+04-03-2026,INV0225,P007,Herbicide B,Ravi,Rabi,Cauliflower,February,6,6240,1041,6246,In Stock,Sasni
+23-01-2026,INV0226,P020,Rice Seed,Mohan,Rabi,Cauliflower,January,10,10350,1036,10360,Low,Iglas
+06-01-2026,INV0227,P018,DAP,Ravi,Zaid,Green Vegetable,January,4,6268,1568,6272,In Stock,Khair
+31-03-2026,INV0228,P005,Wheat Seed,Ravi,Zaid,Green Vegetable,February,3,4194,1399,4197,In Stock,Atrauli
+30-03-2026,INV0229,P007,Herbicide B,Raj,Kharif,Cabbage,March,2,2080,1041,2082,Low,Koil
+22-02-2026,INV0230,P009,Potash,Suresh,Rabi,Green Vegetable,February,3,3654,1219,3657,In Stock,Debai
+08-01-2026,INV0231,P012,Urea,Raj,Rabi,Cauliflower,January,8,2528,317,2536,In Stock,Anupshahr
+03-03-2026,INV0232,P001,DAP,Ravi,Rabi,Cucumber,January,7,4676,669,4683,In Stock,Syana
+29-01-2026,INV0233,P003,Herbicide B,Raj,Zaid,Cucumber,March,9,13941,1550,13950,In Stock,Garhmukteshwar
+01-01-2026,INV0234,P001,Herbicide B,Ravi,Kharif,Cabbage,January,7,4676,669,4683,In Stock,Dhaulana
+16-01-2026,INV0235,P012,Urea,Amit,Zaid,Rabbi,February,10,3160,317,3170,In Stock,Behat
+21-01-2026,INV0236,P020,Fungicide C,Amit,Zaid,Rabbi,January,3,3105,1036,3108,In Stock,Deoband
+29-03-2026,INV0237,P004,Insecticide A,Suresh,Kharif,Carrot,January,3,3813,1272,3816,In Stock,Gangoh
+17-02-2026,INV0238,P012,Rice Seed,Ravi,Kharif,Rabbi,January,7,2212,317,2219,In Stock,Nakur
+25-02-2026,INV0239,P012,Wheat Seed,Mohan,Kharif,Cucumber,March,7,2212,317,2219,In Stock,Titron
+08-02-2026,INV0240,P009,DAP,Raj,Kharif,Green Vegetable,February,9,10962,1219,10971,In Stock,Kandhla
+31-01-2026,INV0241,P016,Corn Seed,Ravi,Rabi,Rabbi,January,1,993,994,994,In Stock,Thanabhawan
+24-02-2026,INV0242,P017,Herbicide B,Amit,Rabi,Green Vegetable,March,7,4410,631,4417,In Stock,Budhana
+04-02-2026,INV0243,P003,DAP,Ravi,Zaid,Carrot,February,6,9294,1550,9300,In Stock,Jansath
+22-01-2026,INV0244,P002,Urea,Mohan,Kharif,Cucumber,January,8,9432,1180,9440,In Stock,Khatauli
+11-01-2026,INV0245,P012,Insecticide A,Mohan,Kharif,Green Vegetable,January,4,1264,317,1268,In Stock,Sardhana
+26-03-2026,INV0246,P013,Fungicide C,Raj,Kharif,Cauliflower,February,1,693,694,694,In Stock,Mawana
+08-02-2026,INV0247,P011,Rice Seed,Suresh,Rabi,Cucumber,January,8,10840,1356,10848,In Stock,Hastinapur
+22-02-2026,INV0248,P014,Fungicide C,Amit,Rabi,Rabbi,February,3,3285,1096,3288,In Stock,Parikshitgarh
+15-02-2026,INV0249,P014,Rice Seed,Ravi,Rabi,Cauliflower,March,4,4380,1096,4384,In Stock,Khekra
+19-01-2026,INV0250,P019,Herbicide B,Mohan,Kharif,Cucumber,March,4,6464,1617,6468,In Stock,Baghpat
+05-01-2026,INV0251,P003,Herbicide B,Suresh,Rabi,Cauliflower,January,7,10843,1550,10850,In Stock,Baraut
+14-01-2026,INV0252,P018,DAP,Raj,Zaid,Green Vegetable,March,10,15670,1568,15680,In Stock,Chaprauli
+01-02-2026,INV0253,P002,Urea,Suresh,Rabi,Rabbi,January,8,9432,1180,9440,In Stock,Shamshabad
+11-03-2026,INV0254,P018,Fungicide C,Ravi,Kharif,Rabbi,January,10,15670,1568,15680,In Stock,Kayamganj
+01-02-2026,INV0255,P006,Insecticide A,Amit,Rabi,Cabbage,March,3,2538,847,2541,In Stock,Amritpur
+27-01-2026,INV0256,P005,Fungicide C,Amit,Kharif,Cucumber,February,10,13980,1399,13990,In Stock,Jalalpur
+09-02-2026,INV0257,P005,DAP,Amit,Rabi,Cabbage,January,2,2796,1399,2798,In Stock,Bikapur
+20-01-2026,INV0258,P006,Potash,Ravi,Kharif,Cauliflower,March,1,846,847,847,In Stock,Rudauli
+29-03-2026,INV0259,P004,Fungicide C,Raj,Kharif,Green Vegetable,January,8,10168,1272,10176,In Stock,Gosainganj
+05-02-2026,INV0260,P010,Insecticide A,Suresh,Kharif,Cauliflower,January,10,9030,904,9040,Low,Sohawal
+04-01-2026,INV0261,P006,DAP,Ravi,Rabi,Cabbage,February,8,6768,847,6776,In Stock,Milkipur
+27-01-2026,INV0262,P004,Wheat Seed,Raj,Rabi,Green Vegetable,January,8,10168,1272,10176,In Stock,Haidergarh
+03-02-2026,INV0263,P001,Rice Seed,Suresh,Kharif,Rabbi,February,2,1336,669,1338,In Stock,Ramnagar
+23-03-2026,INV0264,P018,Urea,Raj,Zaid,Rabbi,March,5,7835,1568,7840,In Stock,Zaidpur
+26-02-2026,INV0265,P011,Wheat Seed,Suresh,Kharif,Cabbage,January,6,8130,1356,8136,In Stock,Kursi
+25-03-2026,INV0266,P020,Wheat Seed,Amit,Kharif,Cauliflower,January,3,3105,1036,3108,In Stock,Dariyabad
+18-01-2026,INV0267,P017,Rice Seed,Raj,Rabi,Cabbage,March,9,5670,631,5679,In Stock,Tikaitnagar
+14-03-2026,INV0268,P001,Urea,Suresh,Rabi,Cauliflower,February,4,2672,669,2676,In Stock,Jagdishpur
+27-03-2026,INV0269,P020,Wheat Seed,Raj,Rabi,Cauliflower,January,3,3105,1036,3108,In Stock,Musafirkhana
+09-02-2026,INV0270,P014,Rice Seed,Raj,Kharif,Cucumber,March,1,1095,1096,1096,In Stock,Gauriganj
+29-03-2026,INV0271,P004,Herbicide B,Mohan,Kharif,Carrot,January,3,3813,1272,3816,In Stock,Tiloi
+21-01-2026,INV0272,P012,DAP,Raj,Kharif,Cabbage,January,9,2844,317,2853,In Stock,Salon
+16-03-2026,INV0273,P001,Wheat Seed,Mohan,Zaid,Cucumber,February,10,6680,669,6690,In Stock,Dalmau
+21-01-2026,INV0274,P004,Corn Seed,Ravi,Zaid,Cucumber,March,4,5084,1272,5088,In Stock,Bachhrawan
+14-02-2026,INV0275,P019,Corn Seed,Mohan,Zaid,Cucumber,January,10,16160,1617,16170,In Stock,Purwa
+19-01-2026,INV0276,P013,Fungicide C,Amit,Zaid,Green Vegetable,January,9,6237,694,6246,In Stock,Safipur
+27-03-2026,INV0277,P013,DAP,Mohan,Kharif,Rabbi,February,1,693,694,694,In Stock,Bangarmau
+19-01-2026,INV0278,P010,Insecticide A,Raj,Rabi,Cauliflower,March,10,9030,904,9040,In Stock,Hasanganj
+31-01-2026,INV0279,P017,Rice Seed,Suresh,Kharif,Cucumber,January,1,630,631,631,In Stock,Mohanlalganj
+18-02-2026,INV0280,P001,Potash,Amit,Rabi,Carrot,January,9,6012,669,6021,In Stock,Malihabad
+17-03-2026,INV0281,P013,Corn Seed,Ravi,Zaid,Cauliflower,February,8,5544,694,5552,In Stock,Mohan
+04-01-2026,INV0282,P008,Wheat Seed,Amit,Zaid,Rabbi,March,9,7200,801,7209,In Stock,Kakori
+11-02-2026,INV0283,P010,Wheat Seed,Amit,Zaid,Rabbi,January,1,903,904,904,In Stock,Itaunja
+31-03-2026,INV0284,P011,DAP,Suresh,Kharif,Cauliflower,January,7,9485,1356,9492,In Stock,Bakshi Ka Talab
+23-02-2026,INV0285,P013,Potash,Mohan,Rabi,Green Vegetable,February,4,2772,694,2776,In Stock,Chinhat
+01-03-2026,INV0286,P007,Rice Seed,Mohan,Rabi,Rabbi,March,1,1040,1041,1041,In Stock,Siswa Bazar
+14-02-2026,INV0287,P002,Urea,Mohan,Kharif,Rabbi,January,9,10611,1180,10620,Low,Campierganj
+13-03-2026,INV0288,P014,Corn Seed,Mohan,Zaid,Carrot,January,8,8760,1096,8768,In Stock,Pipraich
+29-03-2026,INV0289,P014,Wheat Seed,Amit,Zaid,Green Vegetable,February,1,1095,1096,1096,In Stock,Sahjanwa
+04-02-2026,INV0290,P013,Insecticide A,Raj,Kharif,Cauliflower,March,10,6930,694,6940,In Stock,Bansgaon
+16-01-2026,INV0291,P001,Insecticide A,Mohan,Rabi,Cabbage,January,9,6012,669,6021,In Stock,Gola Bazar
+19-02-2026,INV0292,P016,Insecticide A,Suresh,Zaid,Green Vegetable,January,4,3972,994,3976,In Stock,Kaptanganj
+11-01-2026,INV0293,P006,Wheat Seed,Suresh,Rabi,Cucumber,February,1,846,847,847,Low,Rudhauli
+22-03-2026,INV0294,P004,Rice Seed,Mohan,Kharif,Cucumber,March,8,10168,1272,10176,In Stock,Domariyaganj
+25-02-2026,INV0295,P011,Wheat Seed,Raj,Kharif,Cabbage,January,1,1355,1356,1356,In Stock,Lucknow
+31-01-2026,INV0296,P019,Urea,Ravi,Zaid,Cucumber,January,7,11312,1617,11319,In Stock,Kanpur
+24-01-2026,INV0297,P005,Fungicide C,Raj,Zaid,Green Vegetable,February,6,8388,1399,8394,In Stock,Varanasi
+06-03-2026,INV0298,P020,Corn Seed,Amit,Rabi,Carrot,March,8,8280,1036,8288,In Stock,Prayagraj
+21-02-2026,INV0299,P002,Fungicide C,Suresh,Zaid,Cucumber,January,6,7074,1180,7080,In Stock,Agra
+30-01-2026,INV0300,P015,Rice Seed,Suresh,Kharif,Rabbi,January,7,5691,814,5698,Low,Noida
+30-01-2026,INV0301,P015,Rice Seed,Ravi,Rabi,Cabbage,February,10,8130,814,8140,In Stock,Ghaziabad
+05-03-2026,INV0302,P016,Rice Seed,Raj,Zaid,Green Vegetable,March,4,3972,994,3976,In Stock,Meerut
+08-02-2026,INV0303,P019,Rice Seed,Suresh,Kharif,Rabbi,January,8,12928,1617,12936,In Stock,Gorakhpur
+10-02-2026,INV0304,P017,Insecticide A,Ravi,Zaid,Rabbi,January,10,6300,631,6310,In Stock,Bareilly
+12-02-2026,INV0305,P014,Fungicide C,Suresh,Zaid,Carrot,February,8,8760,1096,8768,In Stock,Aligarh
+08-03-2026,INV0306,P004,Herbicide B,Ravi,Rabi,Carrot,March,4,5084,1272,5088,In Stock,Jhansi
+02-01-2026,INV0307,P017,Herbicide B,Suresh,Kharif,Rabbi,January,3,1890,631,1893,In Stock,Ayodhya
+24-01-2026,INV0308,P020,Urea,Mohan,Kharif,Rabbi,January,4,4140,1036,4144,In Stock,Mathura
+26-01-2026,INV0309,P013,Insecticide A,Raj,Kharif,Cauliflower,February,8,5544,694,5552,In Stock,Moradabad
+20-01-2026,INV0310,P014,Wheat Seed,Amit,Rabi,Cauliflower,March,3,3285,1096,3288,Low,Saharanpur
+13-01-2026,INV0311,P011,Potash,Raj,Kharif,Rabbi,January,4,5420,1356,5424,Low,Muzaffarnagar
+02-02-2026,INV0312,P014,Herbicide B,Mohan,Rabi,Green Vegetable,January,6,6570,1096,6576,In Stock,Rampur
+24-02-2026,INV0313,P008,Rice Seed,Mohan,Rabi,Green Vegetable,February,6,4800,801,4806,In Stock,Shahjahanpur
+09-02-2026,INV0314,P010,DAP,Ravi,Zaid,Green Vegetable,March,7,6321,904,6328,In Stock,Firozabad
+23-01-2026,INV0315,P011,Wheat Seed,Suresh,Zaid,Cucumber,January,8,10840,1356,10848,In Stock,Etawah
+30-01-2026,INV0316,P013,Herbicide B,Amit,Zaid,Cucumber,January,1,693,694,694,In Stock,Mainpuri
+25-01-2026,INV0317,P009,Potash,Ravi,Zaid,Rabbi,February,4,4872,1219,4876,In Stock,Unnao
+24-03-2026,INV0318,P003,Urea,Suresh,Kharif,Rabbi,March,5,7745,1550,7750,In Stock,Rae Bareli
+27-02-2026,INV0319,P005,DAP,Mohan,Rabi,Cauliflower,January,8,11184,1399,11192,In Stock,Sitapur
+16-01-2026,INV0320,P015,Herbicide B,Amit,Zaid,Cauliflower,January,8,6504,814,6512,Low,Hardoi
+11-02-2026,INV0321,P006,Herbicide B,Raj,Zaid,Cauliflower,February,9,7614,847,7623,In Stock,Lakhimpur
+22-02-2026,INV0322,P009,Urea,Raj,Kharif,Green Vegetable,March,3,3654,1219,3657,In Stock,Sultanpur
+18-02-2026,INV0323,P020,Fungicide C,Mohan,Rabi,Cauliflower,January,7,7245,1036,7252,In Stock,Amethi
+31-03-2026,INV0324,P014,Insecticide A,Raj,Rabi,Green Vegetable,January,10,10950,1096,10960,In Stock,Gonda
+22-01-2026,INV0325,P018,Rice Seed,Mohan,Zaid,Carrot,February,1,1567,1568,1568,In Stock,Bahraich
+18-02-2026,INV0326,P007,Wheat Seed,Suresh,Zaid,Cauliflower,March,6,6240,1041,6246,In Stock,Shravasti
+08-01-2026,INV0327,P020,DAP,Ravi,Zaid,Carrot,January,2,2070,1036,2072,In Stock,Balrampur
+15-03-2026,INV0328,P009,Corn Seed,Amit,Zaid,Rabbi,January,3,3654,1219,3657,In Stock,Basti
+12-03-2026,INV0329,P007,Herbicide B,Suresh,Zaid,Cucumber,February,8,8320,1041,8328,In Stock,Sant Kabir Nagar
+03-03-2026,INV0330,P007,DAP,Mohan,Kharif,Cabbage,March,7,7280,1041,7287,In Stock,Siddharthnagar
+06-01-2026,INV0331,P019,Urea,Amit,Zaid,Rabbi,January,6,9696,1617,9702,In Stock,Maharajganj
+31-03-2026,INV0332,P016,Insecticide A,Ravi,Kharif,Cauliflower,January,8,7944,994,7952,Low,Kushinagar
+04-03-2026,INV0333,P017,Fungicide C,Mohan,Zaid,Cauliflower,February,8,5040,631,5048,Low,Deoria
+13-02-2026,INV0334,P010,Rice Seed,Amit,Zaid,Rabbi,March,7,6321,904,6328,In Stock,Ballia
+21-02-2026,INV0335,P003,Fungicide C,Suresh,Zaid,Rabbi,January,2,3098,1550,3100,In Stock,Mau
+18-02-2026,INV0336,P013,Rice Seed,Suresh,Kharif,Cabbage,January,8,5544,694,5552,In Stock,Azamgarh
+03-01-2026,INV0337,P004,Herbicide B,Amit,Kharif,Rabbi,February,9,11439,1272,11448,In Stock,Jaunpur
+14-02-2026,INV0338,P008,Herbicide B,Raj,Zaid,Rabbi,March,5,4000,801,4005,In Stock,Ghazipur
+24-01-2026,INV0339,P001,DAP,Mohan,Rabi,Cabbage,January,3,2004,669,2007,In Stock,Chandauli
+31-03-2026,INV0340,P011,Urea,Amit,Kharif,Cauliflower,January,3,4065,1356,4068,In Stock,Mirzapur
+11-03-2026,INV0341,P004,Fungicide C,Amit,Rabi,Cauliflower,February,5,6355,1272,6360,In Stock,Sonbhadra
+12-01-2026,INV0342,P005,Insecticide A,Raj,Rabi,Cabbage,March,4,5592,1399,5596,Low,Bhadohi
+12-03-2026,INV0343,P004,Fungicide C,Amit,Rabi,Rabbi,January,2,2542,1272,2544,Low,Pratapgarh
+15-02-2026,INV0344,P016,DAP,Amit,Rabi,Green Vegetable,January,2,1986,994,1988,In Stock,Kaushambi
+11-02-2026,INV0345,P001,Potash,Ravi,Zaid,Rabbi,February,1,668,669,669,Low,Fatehpur
+28-01-2026,INV0346,P014,Fungicide C,Suresh,Zaid,Cauliflower,March,3,3285,1096,3288,In Stock,Banda
+24-02-2026,INV0347,P016,Insecticide A,Ravi,Kharif,Cauliflower,January,10,9930,994,9940,In Stock,Chitrakoot
+06-03-2026,INV0348,P009,DAP,Mohan,Rabi,Cauliflower,January,9,10962,1219,10971,In Stock,Hamirpur
+12-03-2026,INV0349,P009,Wheat Seed,Suresh,Zaid,Cucumber,February,5,6090,1219,6095,In Stock,Mahoba
+26-01-2026,INV0350,P013,Rice Seed,Ravi,Rabi,Carrot,March,2,1386,694,1388,Low,Jalaun
+28-01-2026,INV0351,P007,Urea,Mohan,Kharif,Green Vegetable,January,2,2080,1041,2082,In Stock,Auraiya
+29-01-2026,INV0352,P016,Wheat Seed,Mohan,Rabi,Rabbi,January,6,5958,994,5964,Low,Kannauj
+31-01-2026,INV0353,P019,Wheat Seed,Mohan,Zaid,Rabbi,February,2,3232,1617,3234,Low,Farrukhabad
+20-03-2026,INV0354,P008,Rice Seed,Ravi,Kharif,Cabbage,March,6,4800,801,4806,Low,Kasganj
+23-02-2026,INV0355,P016,Urea,Ravi,Kharif,Green Vegetable,January,4,3972,994,3976,In Stock,Etah
+05-03-2026,INV0356,P018,Wheat Seed,Suresh,Rabi,Cabbage,January,6,9402,1568,9408,In Stock,Hathras
+19-03-2026,INV0357,P003,Rice Seed,Ravi,Rabi,Rabbi,February,2,3098,1550,3100,In Stock,Bijnor
+07-02-2026,INV0358,P012,Herbicide B,Mohan,Zaid,Cabbage,March,8,2528,317,2536,In Stock,Amroha
+11-01-2026,INV0359,P003,DAP,Mohan,Zaid,Green Vegetable,January,9,13941,1550,13950,In Stock,Sambhal
+12-01-2026,INV0360,P015,Wheat Seed,Amit,Zaid,Rabbi,January,1,813,814,814,In Stock,Badaun
+28-02-2026,INV0361,P009,Corn Seed,Suresh,Rabi,Cucumber,February,4,4872,1219,4876,In Stock,Pilibhit
+07-02-2026,INV0362,P007,Corn Seed,Raj,Rabi,Cabbage,January,5,5200,1041,5205,In Stock,Kheri
+08-02-2026,INV0363,P014,Fungicide C,Ravi,Kharif,Cucumber,February,2,2190,1096,2192,In Stock,Barabanki
+31-01-2026,INV0364,P002,DAP,Amit,Rabi,Carrot,January,8,9432,1180,9440,In Stock,Ambedkar Nagar
+01-02-2026,INV0365,P009,Insecticide A,Ravi,Rabi,Rabbi,January,10,12180,1219,12190,In Stock,Tanda
+15-03-2026,INV0366,P007,Rice Seed,Amit,Rabi,Cauliflower,February,3,3120,1041,3123,In Stock,Akbarpur
+23-01-2026,INV0367,P012,Potash,Mohan,Rabi,Green Vegetable,January,9,2844,317,2853,In Stock,Shikohabad
+18-02-2026,INV0368,P003,Corn Seed,Suresh,Kharif,Rabbi,March,1,1549,1550,1550,In Stock,Tundla
+13-02-2026,INV0369,P008,Wheat Seed,Suresh,Rabi,Green Vegetable,February,4,3200,801,3204,In Stock,Shamli
+12-01-2026,INV0370,P001,Wheat Seed,Amit,Zaid,Carrot,February,7,4676,669,4683,In Stock,Kairana
+28-01-2026,INV0371,P019,DAP,Ravi,Zaid,Cauliflower,January,6,9696,1617,9702,Low,Hapur
+23-02-2026,INV0372,P015,Potash,Raj,Kharif,Rabbi,January,3,2439,814,2442,In Stock,Bulandshahr
+07-01-2026,INV0373,P017,Rice Seed,Mohan,Kharif,Rabbi,January,3,1890,631,1893,Low,Khurja
+23-02-2026,INV0374,P003,Urea,Raj,Kharif,Cabbage,March,5,7745,1550,7750,In Stock,Sikandrabad
+14-01-2026,INV0375,P005,Corn Seed,Suresh,Zaid,Cauliflower,March,3,4194,1399,4197,In Stock,Dadri
+02-02-2026,INV0376,P005,Wheat Seed,Ravi,Zaid,Cauliflower,February,10,13980,1399,13990,In Stock,Jewar
+24-01-2026,INV0377,P007,Insecticide A,Raj,Kharif,Cucumber,January,1,1040,1041,1041,In Stock,Modinagar
+30-03-2026,INV0378,P011,Insecticide A,Ravi,Kharif,Cucumber,February,3,4065,1356,4068,In Stock,Muradnagar
+14-02-2026,INV0379,P019,Insecticide A,Mohan,Zaid,Cabbage,January,5,8080,1617,8085,In Stock,Loni
+14-02-2026,INV0380,P011,Wheat Seed,Suresh,Kharif,Cauliflower,January,2,2710,1356,2712,Low,Pilkhuwa
+15-03-2026,INV0381,P001,Rice Seed,Suresh,Kharif,Cauliflower,March,3,2004,669,2007,In Stock,Hasanpur
+15-03-2026,INV0382,P017,Wheat Seed,Ravi,Zaid,Cauliflower,March,6,3780,631,3786,In Stock,Najibabad
+19-03-2026,INV0383,P006,Urea,Mohan,Kharif,Cucumber,January,1,846,847,847,In Stock,Nagina
+09-01-2026,INV0384,P005,Fungicide C,Ravi,Zaid,Rabbi,March,8,11184,1399,11192,Low,Dhampur
+05-02-2026,INV0385,P002,Corn Seed,Mohan,Kharif,Carrot,March,4,4716,1180,4720,In Stock,Chandpur
+11-03-2026,INV0386,P009,Fungicide C,Ravi,Kharif,Cucumber,January,1,1218,1219,1219,In Stock,Haldaur
+14-02-2026,INV0387,P017,Rice Seed,Ravi,Zaid,Cabbage,March,7,4410,631,4417,In Stock,Kiratpur
+20-02-2026,INV0388,P017,Rice Seed,Amit,Zaid,Carrot,January,2,1260,631,1262,In Stock,Seohara
+05-03-2026,INV0389,P006,Rice Seed,Suresh,Zaid,Cauliflower,February,8,6768,847,6776,In Stock,Jalalabad
+11-03-2026,INV0390,P010,Rice Seed,Ravi,Rabi,Cucumber,January,4,3612,904,3616,In Stock,Powayan
+28-01-2026,INV0391,P011,Insecticide A,Raj,Kharif,Cabbage,January,1,1355,1356,1356,In Stock,Tilhar
+04-01-2026,INV0392,P014,Fungicide C,Mohan,Kharif,Cucumber,March,6,6570,1096,6576,In Stock,Puranpur
+18-03-2026,INV0393,P006,Herbicide B,Suresh,Rabi,Cauliflower,January,3,2538,847,2541,Low,Bisalpur
+16-02-2026,INV0394,P018,Herbicide B,Raj,Zaid,Cucumber,January,3,4701,1568,4704,In Stock,Barkhera
+14-01-2026,INV0395,P013,Urea,Ravi,Rabi,Rabbi,February,5,3465,694,3470,In Stock,Gola Gokaran Nath
+06-03-2026,INV0396,P005,Insecticide A,Suresh,Kharif,Cucumber,January,10,13980,1399,13990,In Stock,Mohammadi
+25-03-2026,INV0397,P009,Wheat Seed,Mohan,Zaid,Green Vegetable,March,7,8526,1219,8533,In Stock,Palia Kalan
+01-01-2026,INV0398,P010,Potash,Amit,Rabi,Cauliflower,January,7,6321,904,6328,In Stock,Nighasan
+01-01-2026,INV0399,P008,Herbicide B,Raj,Zaid,Carrot,March,6,4800,801,4806,In Stock,Dhaurahra
+18-03-2026,INV0400,P013,Rice Seed,Amit,Kharif,Cucumber,January,5,3465,694,3470,In Stock,Mahmudabad
+15-02-2026,INV0401,P010,DAP,Raj,Zaid,Carrot,January,3,2709,904,2712,In Stock,Laharpur
+15-02-2026,INV0402,P014,Wheat Seed,Mohan,Rabi,Cucumber,February,6,6570,1096,6576,In Stock,Misrikh
+18-02-2026,INV0403,P012,Herbicide B,Ravi,Kharif,Rabbi,March,4,1264,317,1268,In Stock,Sandila
+08-02-2026,INV0404,P004,Potash,Raj,Rabi,Cauliflower,February,3,3813,1272,3816,In Stock,Bilgram
+01-02-2026,INV0405,P020,Urea,Amit,Rabi,Cauliflower,January,9,9315,1036,9324,In Stock,Shahabad
+11-03-2026,INV0406,P012,DAP,Suresh,Kharif,Carrot,January,9,2844,317,2853,In Stock,Sandi
+07-03-2026,INV0407,P011,Herbicide B,Raj,Zaid,Cabbage,February,5,6775,1356,6780,In Stock,Mallawan
+18-03-2026,INV0408,P011,Herbicide B,Mohan,Kharif,Rabbi,March,7,9485,1356,9492,In Stock,Pihani
+01-01-2026,INV0409,P014,Urea,Mohan,Rabi,Cucumber,February,10,10950,1096,10960,In Stock,Bilsi
+27-02-2026,INV0410,P011,Fungicide C,Suresh,Kharif,Green Vegetable,January,10,13550,1356,13560,In Stock,Ujhani
+24-03-2026,INV0411,P020,Insecticide A,Ravi,Zaid,Rabbi,January,4,4140,1036,4144,In Stock,Sahaswan
+19-01-2026,INV0412,P018,Rice Seed,Ravi,Zaid,Cabbage,March,2,3134,1568,3136,In Stock,Dataganj
+11-03-2026,INV0413,P018,Wheat Seed,Mohan,Rabi,Rabbi,January,4,6268,1568,6272,In Stock,Bisauli
+19-03-2026,INV0414,P003,DAP,Raj,Rabi,Cabbage,February,8,12392,1550,12400,In Stock,Chandausi
+26-02-2026,INV0415,P014,Corn Seed,Ravi,Rabi,Cauliflower,January,10,10950,1096,10960,In Stock,Gunnaur
+16-03-2026,INV0416,P016,Herbicide B,Mohan,Kharif,Cucumber,January,7,6951,994,6958,In Stock,Bilari
+23-03-2026,INV0417,P010,DAP,Ravi,Zaid,Carrot,January,7,6321,904,6328,Low,Thakurdwara
+27-01-2026,INV0418,P020,Urea,Raj,Rabi,Cucumber,March,3,3105,1036,3108,In Stock,Kanth
+25-02-2026,INV0419,P008,Insecticide A,Ravi,Zaid,Carrot,February,5,4000,801,4005,Low,Kundarki
+20-02-2026,INV0420,P004,Fungicide C,Mohan,Kharif,Green Vegetable,January,6,7626,1272,7632,In Stock,Suar
+20-02-2026,INV0421,P009,Rice Seed,Mohan,Zaid,Cucumber,March,2,2436,1219,2438,In Stock,Bilaspur
+23-02-2026,INV0422,P007,Fungicide C,Ravi,Rabi,Cauliflower,February,6,6240,1041,6246,In Stock,Milak
+25-03-2026,INV0423,P007,Rice Seed,Raj,Kharif,Rabbi,January,1,1040,1041,1041,In Stock,Tanda Rampur
+24-01-2026,INV0424,P017,Herbicide B,Mohan,Zaid,Cabbage,January,3,1890,631,1893,In Stock,Nawabganj
+15-01-2026,INV0425,P014,Herbicide B,Mohan,Rabi,Carrot,February,1,1095,1096,1096,In Stock,Faridpur
+05-02-2026,INV0426,P007,DAP,Suresh,Kharif,Carrot,January,1,1040,1041,1041,In Stock,Baheri
+15-03-2026,INV0427,P004,Urea,Suresh,Zaid,Cauliflower,February,10,12710,1272,12720,In Stock,Aonla
+15-01-2026,INV0428,P001,Fungicide C,Ravi,Zaid,Cabbage,March,7,4676,669,4683,In Stock,Meerganj
+31-03-2026,INV0429,P006,Insecticide A,Amit,Kharif,Rabbi,March,2,1692,847,1694,In Stock,Bithoor
+24-01-2026,INV0430,P012,Fungicide C,Ravi,Rabi,Green Vegetable,January,4,1264,317,1268,Low,Rasulabad
+17-03-2026,INV0431,P011,DAP,Raj,Zaid,Rabbi,March,9,12195,1356,12204,In Stock,Ghatampur
+01-04-2026,INV0432,P019,Potash,Raj,Rabi,Carrot,January,2,3232,1617,3234,In Stock,Akbarpur Kanpur Dehat
+07-03-2026,INV0433,P003,Fungicide C,Ravi,Kharif,Carrot,January,4,6196,1550,6200,In Stock,Rura
+12-02-2026,INV0434,P017,Insecticide A,Suresh,Rabi,Carrot,March,3,1890,631,1893,In Stock,Pukhrayan
+17-02-2026,INV0435,P019,DAP,Mohan,Kharif,Green Vegetable,February,1,1616,1617,1617,In Stock,Bhognipur
+13-01-2026,INV0436,P019,Wheat Seed,Raj,Kharif,Carrot,January,3,4848,1617,4851,In Stock,Derapur
+21-03-2026,INV0437,P018,Rice Seed,Ravi,Rabi,Cabbage,March,8,12536,1568,12544,In Stock,Sikandra
+27-01-2026,INV0438,P001,Urea,Suresh,Rabi,Carrot,January,3,2004,669,2007,In Stock,Orai
+13-02-2026,INV0439,P015,Wheat Seed,Mohan,Zaid,Green Vegetable,January,8,6504,814,6512,Low,Konch
+11-02-2026,INV0440,P016,Wheat Seed,Ravi,Zaid,Carrot,February,2,1986,994,1988,In Stock,Kalpi
+17-01-2026,INV0441,P001,Rice Seed,Raj,Kharif,Rabbi,January,2,1336,669,1338,In Stock,Madhogarh
+11-01-2026,INV0442,P003,Urea,Mohan,Kharif,Green Vegetable,February,5,7745,1550,7750,In Stock,Rath
+06-01-2026,INV0443,P007,Wheat Seed,Ravi,Zaid,Cucumber,March,7,7280,1041,7287,In Stock,Maudaha
+17-01-2026,INV0444,P017,Rice Seed,Amit,Rabi,Cabbage,January,3,1890,631,1893,In Stock,Sarila
+09-02-2026,INV0445,P015,Herbicide B,Suresh,Kharif,Rabbi,January,3,2439,814,2442,Low,Charkhari
+30-01-2026,INV0446,P017,DAP,Amit,Kharif,Carrot,March,7,4410,631,4417,In Stock,Kulpahar
+24-02-2026,INV0447,P004,Wheat Seed,Amit,Kharif,Cucumber,February,6,7626,1272,7632,In Stock,Kabrai
+16-01-2026,INV0448,P006,Corn Seed,Suresh,Kharif,Green Vegetable,January,2,1692,847,1694,In Stock,Lalitpur
+07-01-2026,INV0449,P012,Corn Seed,Raj,Rabi,Cucumber,March,2,632,317,634,Low,Talbehat
+17-01-2026,INV0450,P019,Fungicide C,Amit,Zaid,Rabbi,January,6,9696,1617,9702,In Stock,Mahroni
+26-02-2026,INV0451,P018,DAP,Amit,Rabi,Green Vegetable,January,5,7835,1568,7840,In Stock,Baruasagar
+13-01-2026,INV0452,P013,Insecticide A,Amit,Rabi,Green Vegetable,February,8,5544,694,5552,In Stock,Mauranipur
+17-03-2026,INV0453,P005,Rice Seed,Suresh,Kharif,Green Vegetable,March,2,2796,1399,2798,In Stock,Garautha
+16-01-2026,INV0454,P011,Potash,Amit,Zaid,Rabbi,January,10,13550,1356,13560,In Stock,Babina
+05-03-2026,INV0455,P020,Corn Seed,Suresh,Rabi,Cabbage,January,2,2070,1036,2072,In Stock,Chirgaon
+22-02-2026,INV0456,P004,Wheat Seed,Mohan,Rabi,Rabbi,February,8,10168,1272,10176,In Stock,Tulsipur
+31-01-2026,INV0457,P011,Wheat Seed,Suresh,Rabi,Cucumber,March,10,13550,1356,13560,In Stock,Utraula
+24-03-2026,INV0458,P006,DAP,Suresh,Rabi,Green Vegetable,January,3,2538,847,2541,In Stock,Colonelganj
+18-02-2026,INV0459,P012,Potash,Raj,Kharif,Cabbage,January,2,632,317,634,In Stock,Mankapur
+11-01-2026,INV0460,P020,Rice Seed,Mohan,Kharif,Cauliflower,February,2,2070,1036,2072,Low,Tarabganj
+03-01-2026,INV0461,P010,Urea,Amit,Rabi,Carrot,March,10,9030,904,9040,In Stock,Nanpara
+08-02-2026,INV0462,P006,Corn Seed,Ravi,Rabi,Rabbi,January,6,5076,847,5082,In Stock,Kaiserganj
+19-01-2026,INV0463,P005,Wheat Seed,Suresh,Rabi,Carrot,January,5,6990,1399,6995,In Stock,Payagpur
+26-01-2026,INV0464,P017,Insecticide A,Ravi,Kharif,Cabbage,February,4,2520,631,2524,In Stock,Jarwal
+19-02-2026,INV0465,P008,Insecticide A,Raj,Zaid,Cabbage,March,10,8000,801,8010,In Stock,Bhinga
+25-01-2026,INV0466,P019,Insecticide A,Raj,Rabi,Rabbi,January,7,11312,1617,11319,In Stock,Ikauna
+15-02-2026,INV0467,P020,Wheat Seed,Ravi,Zaid,Cauliflower,January,4,4140,1036,4144,In Stock,Harraiya
+20-01-2026,INV0468,P006,Rice Seed,Raj,Kharif,Cabbage,February,9,7614,847,7623,In Stock,Khalilabad
+19-02-2026,INV0469,P014,Wheat Seed,Amit,Kharif,Cauliflower,March,6,6570,1096,6576,In Stock,Bansi
+22-02-2026,INV0470,P017,Urea,Ravi,Rabi,Cauliflower,January,10,6300,631,6310,In Stock,Naugarh
+22-03-2026,INV0471,P011,Fungicide C,Suresh,Zaid,Rabbi,January,1,1355,1356,1356,In Stock,Shohratgarh
+05-03-2026,INV0472,P020,Corn Seed,Ravi,Rabi,Carrot,February,1,1035,1036,1036,In Stock,Pharenda
+31-01-2026,INV0473,P012,Fungicide C,Mohan,Zaid,Carrot,March,8,2528,317,2536,In Stock,Nautanwa
+08-02-2026,INV0474,P014,Rice Seed,Mohan,Zaid,Carrot,January,7,7665,1096,7672,In Stock,Nichlaul
+01-02-2026,INV0475,P020,Rice Seed,Ravi,Zaid,Rabbi,January,4,4140,1036,4144,In Stock,Padrauna
+18-01-2026,INV0476,P019,Rice Seed,Raj,Kharif,Cauliflower,February,1,1616,1617,1617,Low,Hata
+06-03-2026,INV0477,P004,Rice Seed,Mohan,Kharif,Cucumber,March,1,1271,1272,1272,In Stock,Ramkola
+07-03-2026,INV0478,P019,Insecticide A,Suresh,Kharif,Rabbi,January,6,9696,1617,9702,In Stock,Rudrapur
+06-03-2026,INV0479,P015,Fungicide C,Amit,Zaid,Cabbage,January,9,7317,814,7326,In Stock,Salempur
+12-02-2026,INV0480,P004,Herbicide B,Ravi,Zaid,Green Vegetable,February,7,8897,1272,8904,In Stock,Lar
+20-01-2026,INV0481,P013,Herbicide B,Suresh,Zaid,Cucumber,March,9,6237,694,6246,In Stock,Rasra
+18-02-2026,INV0482,P003,Urea,Amit,Zaid,Rabbi,January,3,4647,1550,4650,In Stock,Bansdih
+11-03-2026,INV0483,P007,Insecticide A,Amit,Kharif,Carrot,January,4,4160,1041,4164,In Stock,Sikanderpur
+18-02-2026,INV0484,P005,Wheat Seed,Suresh,Zaid,Cucumber,February,7,9786,1399,9793,In Stock,Belthara Road
+15-02-2026,INV0485,P016,DAP,Mohan,Zaid,Cauliflower,March,10,9930,994,9940,In Stock,Muhammadabad
+07-02-2026,INV0486,P016,Urea,Raj,Kharif,Cabbage,January,1,993,994,994,In Stock,Jiyanpur
+19-01-2026,INV0487,P009,Rice Seed,Mohan,Rabi,Cucumber,January,1,1218,1219,1219,In Stock,Nizamabad
+27-02-2026,INV0488,P014,Herbicide B,Ravi,Zaid,Carrot,February,7,7665,1096,7672,Low,Mehnagar
+24-01-2026,INV0489,P010,Fungicide C,Amit,Zaid,Carrot,March,7,6321,904,6328,In Stock,Shahganj
+16-01-2026,INV0490,P014,Corn Seed,Raj,Rabi,Cucumber,January,2,2190,1096,2192,In Stock,Mariahu
+05-01-2026,INV0491,P012,Potash,Raj,Kharif,Carrot,January,3,948,317,951,In Stock,Kerakat
+01-01-2026,INV0492,P014,Insecticide A,Mohan,Rabi,Carrot,February,10,10950,1096,10960,In Stock,Saidpur
+01-01-2026,INV0493,P004,DAP,Mohan,Zaid,Carrot,March,9,11439,1272,11448,In Stock,Zamania
+20-02-2026,INV0494,P007,Wheat Seed,Amit,Rabi,Cabbage,January,7,7280,1041,7287,In Stock,Dildarnagar
+03-02-2026,INV0495,P017,Rice Seed,Ravi,Kharif,Carrot,January,2,1260,631,1262,In Stock,Mughalsarai
+06-01-2026,INV0496,P014,Urea,Raj,Rabi,Rabbi,February,5,5475,1096,5480,In Stock,Chakia
+17-01-2026,INV0497,P017,Herbicide B,Amit,Rabi,Carrot,March,7,4410,631,4417,In Stock,Robertsganj
+30-03-2026,INV0498,P016,Fungicide C,Mohan,Kharif,Green Vegetable,January,9,8937,994,8946,In Stock,Obra
+23-03-2026,INV0499,P016,Corn Seed,Raj,Kharif,Cauliflower,January,6,5958,994,5964,In Stock,Renukoot
+12-01-2025,INV0500,P013,DAP,Ravi,Zaid,Cabbage,January,8,5544,694,5552,In Stock,Dudhi
